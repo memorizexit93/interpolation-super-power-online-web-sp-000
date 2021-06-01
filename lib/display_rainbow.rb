@@ -1,1 +1,1 @@
-# Write your #display_rainbow method here
+display_rainbow(['red', 'organge', 'yellow', 'green', 'blue', 'indigo', 'violet'})
